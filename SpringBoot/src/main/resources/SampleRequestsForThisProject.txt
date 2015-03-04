@@ -55,7 +55,6 @@ REQUEST
 /jsonListRequest
 REQUEST
 	{
-	  "athlete": {
 	    "name": "nishanth",
 	    "address": "123 st",
 	    "age": "24",
@@ -71,4 +70,3 @@ REQUEST
 	    ]
 	  }
 	 }
-	}
